@@ -7,7 +7,7 @@ global.config = {
     owner: [
         ['6283159699851', 'Sorano Hoshi']
     ],
-    token: "7565458161:AAGiXdYElgpBoMdDgfYvtRD4fCa3dvyNlnw",
+    token: "Token Lu",
 };
 
 let file = fileURLToPath(import.meta.url)
