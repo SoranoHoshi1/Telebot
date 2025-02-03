@@ -1,3 +1,4 @@
+process.noDeprecation = true;
 import readlineSync from 'readline-sync';
 import { join, dirname } from 'path';
 import { createRequire } from "module";

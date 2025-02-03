@@ -1,3 +1,4 @@
+process.noDeprecation = true;
 import { Telegraf } from 'telegraf';
 import { loadPlugins } from './lib/plugins.js';
 import './config.js';
