@@ -1,7 +1,7 @@
 export default {
-  command: "hallo",
+  command: 'halo',
   description: "Balas dengan 'Halo juga!' setelah 2 detik",
   async run(ctx) {
-    await ctx.reply("Halo juga!");
+    ctx.reply('Halo juga!');
   }
 };

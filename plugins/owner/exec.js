@@ -3,7 +3,7 @@ import { exec } from "child_process";
 export default {
   command: "exec",
   description: "Jalankan perintah terminal di server",
-  owner: true,
+  dev: true,
   async run(ctx) {
     const args = ctx.message.text.split(" ").slice(1);
     if (args.length === 0) return ctx.reply("⚠ Masukkan perintah yang ingin dijalankan.");
