@@ -1,5 +1,7 @@
 export default {
   command: "my",
+  tags: ['info'],
+  help: ['/my'],
   description: "info user",
   async run(ctx) {
     const user = ctx.from;

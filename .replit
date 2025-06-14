@@ -1,0 +1,31 @@
+entrypoint = "main.js"
+modules = ["nodejs-22"]
+hidden = [".config", "package-lock.json"]
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix", "package.json", "package-lock.json"]
+
+[nix]
+channel = "stable-24_11"
+packages = ["unzip", "zip"]
+
+[deployment]
+run = ["node", "main.js"]
+deploymentTarget = "autoscale"
+ignorePorts = false
+
+[workflows]
+runButton = "Start Bot"
+
+[[workflows.workflow]]
+name = "Start Bot"
+author = 43816054
+mode = "sequential"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "node main.js"
+
+[[ports]]
+localPort = 3000
+externalPort = 80

@@ -1,0 +1,2310 @@
+[
+  {
+    "level": "SUCCESS",
+    "msg": "Database connected successfully",
+    "timestamp": "2025-06-14T04:50:22.582Z",
+    "metadata": {}
+  },
+  {
+    "level": "WARN",
+    "msg": "Duplicate command detected: ai",
+    "timestamp": "2025-06-14T04:50:23.639Z",
+    "metadata": {}
+  },
+  {
+    "level": "SUCCESS",
+    "msg": "Advanced Telegram Bot started successfully!",
+    "timestamp": "2025-06-14T04:50:23.641Z",
+    "metadata": {}
+  },
+  {
+    "level": "SUCCESS",
+    "msg": "Web dashboard started on port 3000",
+    "timestamp": "2025-06-14T04:50:23.674Z",
+    "metadata": {}
+  },
+  {
+    "level": "INFO",
+    "msg": "Bot username: @sora229_bot",
+    "timestamp": "2025-06-14T04:50:24.236Z",
+    "metadata": {}
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.530Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.746Z",
+    "level": "success",
+    "message": "Plugin loaded: ai (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.754Z",
+    "level": "success",
+    "message": "Plugin loaded: hd (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.756Z",
+    "level": "success",
+    "message": "Plugin loaded: halo (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.757Z",
+    "level": "success",
+    "message": "Plugin loaded: start (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.767Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/moderation.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.769Z",
+    "level": "success",
+    "message": "Plugin loaded: ai, ask, chat, gpt (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.770Z",
+    "level": "success",
+    "message": "Plugin loaded: imagine, generate, draw, create (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.775Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp3 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.778Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp4 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.790Z",
+    "level": "success",
+    "message": "Plugin loaded: balance, bal, money, duit (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.791Z",
+    "level": "success",
+    "message": "Plugin loaded: daily, claim (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.794Z",
+    "level": "success",
+    "message": "Plugin loaded: leaderboard, lb, top, rank (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.796Z",
+    "level": "success",
+    "message": "Plugin loaded: transfer, pay, give (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.797Z",
+    "level": "success",
+    "message": "Plugin loaded: facts, fakta, trivia (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.802Z",
+    "level": "success",
+    "message": "Plugin loaded: quote, quotes, motivasi (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.804Z",
+    "level": "success",
+    "message": "Plugin loaded: ttt, tictactoe, xo (game)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.806Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/games/slots.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.808Z",
+    "level": "success",
+    "message": "Plugin loaded: help, bantuan (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.809Z",
+    "level": "success",
+    "message": "Plugin loaded: my (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.810Z",
+    "level": "success",
+    "message": "Plugin loaded: owner (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.818Z",
+    "level": "success",
+    "message": "Plugin loaded: ping (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.906Z",
+    "level": "success",
+    "message": "Plugin loaded: menu (main)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:06.936Z",
+    "level": "success",
+    "message": "Plugin loaded: nsfw (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.526Z",
+    "level": "success",
+    "message": "Plugin loaded: xnxx (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.529Z",
+    "level": "success",
+    "message": "Plugin loaded: exec (owner)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.544Z",
+    "level": "success",
+    "message": "Plugin loaded: play (sound)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.551Z",
+    "level": "success",
+    "message": "Plugin loaded: brat (sticker)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.560Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/advanced-calc.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.564Z",
+    "level": "success",
+    "message": "Plugin loaded: calc, kalkulator, hitung (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.571Z",
+    "level": "success",
+    "message": "Plugin loaded: crypto, btc, eth, price (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.575Z",
+    "level": "success",
+    "message": "Plugin loaded: password, pass, genpass (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.578Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/qr-enhanced.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.582Z",
+    "level": "success",
+    "message": "Plugin loaded: qr, qrcode (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.583Z",
+    "level": "success",
+    "message": "Plugin loaded: shorturl, short, tinyurl (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.586Z",
+    "level": "success",
+    "message": "Plugin loaded: translate, tr, terjemah (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.587Z",
+    "level": "success",
+    "message": "Plugin loaded: weather, cuaca (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:07.589Z",
+    "level": "success",
+    "message": "66 plugin berhasil dimuat",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.178Z",
+    "level": "error",
+    "message": "Gagal memulai bot:",
+    "args": [
+      {
+        "response": {
+          "ok": false,
+          "error_code": 404,
+          "description": "Not Found"
+        },
+        "on": {
+          "method": "getMe",
+          "payload": {}
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.624Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.797Z",
+    "level": "success",
+    "message": "Plugin loaded: ai (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.799Z",
+    "level": "success",
+    "message": "Plugin loaded: hd (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.802Z",
+    "level": "success",
+    "message": "Plugin loaded: halo (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.803Z",
+    "level": "success",
+    "message": "Plugin loaded: start (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.804Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/moderation.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.805Z",
+    "level": "success",
+    "message": "Plugin loaded: ai, ask, chat, gpt (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.809Z",
+    "level": "success",
+    "message": "Plugin loaded: imagine, generate, draw, create (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.814Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp3 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.816Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp4 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.827Z",
+    "level": "success",
+    "message": "Plugin loaded: balance, bal, money, duit (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.829Z",
+    "level": "success",
+    "message": "Plugin loaded: daily, claim (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.830Z",
+    "level": "success",
+    "message": "Plugin loaded: leaderboard, lb, top, rank (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.832Z",
+    "level": "success",
+    "message": "Plugin loaded: transfer, pay, give (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.835Z",
+    "level": "success",
+    "message": "Plugin loaded: facts, fakta, trivia (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.836Z",
+    "level": "success",
+    "message": "Plugin loaded: quote, quotes, motivasi (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.837Z",
+    "level": "success",
+    "message": "Plugin loaded: ttt, tictactoe, xo (game)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.839Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/games/slots.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.841Z",
+    "level": "success",
+    "message": "Plugin loaded: help, bantuan (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.841Z",
+    "level": "success",
+    "message": "Plugin loaded: my (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.843Z",
+    "level": "success",
+    "message": "Plugin loaded: owner (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.848Z",
+    "level": "success",
+    "message": "Plugin loaded: ping (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.887Z",
+    "level": "success",
+    "message": "Plugin loaded: menu (main)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:08.949Z",
+    "level": "success",
+    "message": "Plugin loaded: nsfw (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.148Z",
+    "level": "success",
+    "message": "Plugin loaded: xnxx (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.150Z",
+    "level": "success",
+    "message": "Plugin loaded: exec (owner)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.166Z",
+    "level": "success",
+    "message": "Plugin loaded: play (sound)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.169Z",
+    "level": "success",
+    "message": "Plugin loaded: brat (sticker)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.171Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/advanced-calc.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.174Z",
+    "level": "success",
+    "message": "Plugin loaded: calc, kalkulator, hitung (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.176Z",
+    "level": "success",
+    "message": "Plugin loaded: crypto, btc, eth, price (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.182Z",
+    "level": "success",
+    "message": "Plugin loaded: password, pass, genpass (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.185Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/qr-enhanced.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.187Z",
+    "level": "success",
+    "message": "Plugin loaded: qr, qrcode (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.189Z",
+    "level": "success",
+    "message": "Plugin loaded: shorturl, short, tinyurl (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.190Z",
+    "level": "success",
+    "message": "Plugin loaded: translate, tr, terjemah (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.194Z",
+    "level": "success",
+    "message": "Plugin loaded: weather, cuaca (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.196Z",
+    "level": "success",
+    "message": "66 plugin berhasil dimuat",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:11:09.779Z",
+    "level": "error",
+    "message": "Gagal memulai bot:",
+    "args": [
+      {
+        "response": {
+          "ok": false,
+          "error_code": 404,
+          "description": "Not Found"
+        },
+        "on": {
+          "method": "getMe",
+          "payload": {}
+        }
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:15:38.299Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:15:38.323Z",
+    "level": "error",
+    "message": "API Call Error (getMe):",
+    "args": [
+      "performance.now is not a function"
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:15:38.355Z",
+    "level": "error",
+    "message": "Bot start error:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:15:38.375Z",
+    "level": "error",
+    "message": "Gagal memulai bot:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:19:17.028Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:19:17.638Z",
+    "level": "error",
+    "message": "API Call Error (getMe):",
+    "args": [
+      "HTTP 404: Not Found"
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:19:17.639Z",
+    "level": "error",
+    "message": "Bot start error:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:19:17.641Z",
+    "level": "error",
+    "message": "Gagal memulai bot:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.487Z",
+    "level": "error",
+    "message": "❌ Token bot tidak ditemukan!",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.489Z",
+    "level": "info",
+    "message": "📝 Cara mendapatkan token:",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.503Z",
+    "level": "info",
+    "message": "1. Buka @BotFather di Telegram",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.504Z",
+    "level": "info",
+    "message": "2. Ketik /newbot dan ikuti instruksi",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.506Z",
+    "level": "info",
+    "message": "3. Copy token yang diberikan",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.509Z",
+    "level": "info",
+    "message": "4. Buka Secrets tab di Replit",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.518Z",
+    "level": "info",
+    "message": "5. Tambah secret dengan key: BOT_TOKEN dan value: token dari BotFather",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T05:20:38.524Z",
+    "level": "info",
+    "message": "6. Restart bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:37:45.790Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.391Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.393Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/Ai/ai.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.399Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/Ai/clear.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.403Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/Ai/personality.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.408Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/Ai/upscale.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.410Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/_Hoshino/hallo.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.413Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/_Hoshino/start.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.416Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/dashboard.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.423Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/moderation.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.424Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/monitor.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.426Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/ai/enhanced-ai.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.427Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/ai/image-gen.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.431Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/downloader/ytmp3.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.433Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/downloader/ytmp4.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.435Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/economy/balance.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.436Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/economy/daily.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.439Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/economy/leaderboard.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.441Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/economy/transfer.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.443Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/fun/facts.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.445Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/fun/quote.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.446Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/game/tictactoe.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.447Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/games/casino.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.449Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/games/slots.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.452Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/info/help.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.453Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/info/my.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.455Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/info/owner.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.458Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/info/speed.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.461Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/main/menu.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.463Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/nsfw/hentai.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.466Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/nsfw/xnxx.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.470Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/owner/exec.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.476Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/sound/play.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.478Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/sticker/brat.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.486Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/advanced-calc.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.487Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/calc.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.500Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/crypto.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.502Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/password.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.510Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/qr-enhanced.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.511Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/qr.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.513Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/shorturl.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.515Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/translate.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.519Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/weather.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:37:46.519Z",
+    "level": "success",
+    "message": "0 plugin berhasil dimuat",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:18.103Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:18.104Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:23.678Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:23.703Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:23.706Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.236Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.829Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.832Z",
+    "level": "success",
+    "message": "Plugin loaded: ai, chat, ask (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.833Z",
+    "level": "success",
+    "message": "Plugin loaded: clear_chat, reset_ai, new_chat (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.836Z",
+    "level": "success",
+    "message": "Plugin loaded: personality, persona (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.839Z",
+    "level": "success",
+    "message": "Plugin loaded: hd (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.840Z",
+    "level": "success",
+    "message": "Plugin loaded: halo (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.841Z",
+    "level": "success",
+    "message": "Plugin loaded: start (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.843Z",
+    "level": "success",
+    "message": "Plugin loaded: dashboard, panel (admin)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.845Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/moderation.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.847Z",
+    "level": "success",
+    "message": "Plugin loaded: monitor, status, health (admin)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.848Z",
+    "level": "success",
+    "message": "Plugin loaded: ai, ask, chat, gpt (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.849Z",
+    "level": "success",
+    "message": "Plugin loaded: imagine, generate, draw, create (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.852Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp3 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.853Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp4 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.856Z",
+    "level": "success",
+    "message": "Plugin loaded: balance, bal, money, duit (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.857Z",
+    "level": "success",
+    "message": "Plugin loaded: daily, claim (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.858Z",
+    "level": "success",
+    "message": "Plugin loaded: leaderboard, lb, top, rank (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.859Z",
+    "level": "success",
+    "message": "Plugin loaded: transfer, pay, give (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.861Z",
+    "level": "success",
+    "message": "Plugin loaded: facts, fakta, trivia (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.863Z",
+    "level": "success",
+    "message": "Plugin loaded: quote, quotes, motivasi (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.864Z",
+    "level": "success",
+    "message": "Plugin loaded: ttt, tictactoe, xo (game)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.865Z",
+    "level": "success",
+    "message": "Plugin loaded: casino, bet, gamble (games)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.866Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/games/slots.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.868Z",
+    "level": "success",
+    "message": "Plugin loaded: help, bantuan (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.869Z",
+    "level": "success",
+    "message": "Plugin loaded: my (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.870Z",
+    "level": "success",
+    "message": "Plugin loaded: owner (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.873Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/info/speed.js:",
+    "args": [
+      {
+        "code": "ERR_MODULE_NOT_FOUND"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.874Z",
+    "level": "success",
+    "message": "Plugin loaded: menu, help, start (main)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:25.891Z",
+    "level": "success",
+    "message": "Plugin loaded: nsfw (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:26.120Z",
+    "level": "success",
+    "message": "Plugin loaded: xnxx (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:26.121Z",
+    "level": "success",
+    "message": "Plugin loaded: exec (owner)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:26.125Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/sound/play.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:39:26.127Z",
+    "level": "success",
+    "message": "Plugin loaded: brat (sticker)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.282Z",
+    "level": "success",
+    "message": "Plugin loaded: calc, math, calculate, kalkulator (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.289Z",
+    "level": "success",
+    "message": "Plugin loaded: calc, kalkulator, hitung (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.292Z",
+    "level": "success",
+    "message": "Plugin loaded: crypto, btc, eth, price (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.293Z",
+    "level": "success",
+    "message": "Plugin loaded: password, pass, genpass (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.317Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/qr-enhanced.js:",
+    "args": [
+      {
+        "code": "ERR_DLOPEN_FAILED"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.321Z",
+    "level": "success",
+    "message": "Plugin loaded: qr, qrcode (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.323Z",
+    "level": "success",
+    "message": "Plugin loaded: shorturl, short, tinyurl (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.324Z",
+    "level": "success",
+    "message": "Plugin loaded: translate, tr, terjemah (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.326Z",
+    "level": "success",
+    "message": "Plugin loaded: weather, cuaca (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:39:27.326Z",
+    "level": "success",
+    "message": "79 plugin berhasil dimuat",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T07:41:15.046Z",
+    "level": "success",
+    "message": "Command '/menu' berhasil dijalankan oleh User 7088128349",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:14.732Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.389Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.392Z",
+    "level": "success",
+    "message": "Plugin loaded: ai, chat, ask (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.394Z",
+    "level": "success",
+    "message": "Plugin loaded: clear_chat, reset_ai, new_chat (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.395Z",
+    "level": "success",
+    "message": "Plugin loaded: personality, persona (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.419Z",
+    "level": "success",
+    "message": "Plugin loaded: hd (Ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.421Z",
+    "level": "success",
+    "message": "Plugin loaded: halo (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.422Z",
+    "level": "success",
+    "message": "Plugin loaded: start (_Hoshino)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.425Z",
+    "level": "success",
+    "message": "Plugin loaded: dashboard, panel (admin)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.427Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/admin/moderation.js:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.429Z",
+    "level": "success",
+    "message": "Plugin loaded: monitor, status, health (admin)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.430Z",
+    "level": "success",
+    "message": "Plugin loaded: ai, ask, chat, gpt (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.432Z",
+    "level": "success",
+    "message": "Plugin loaded: imagine, generate, draw, create (ai)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.438Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp3 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.441Z",
+    "level": "success",
+    "message": "Plugin loaded: ytmp4 (downloader)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.443Z",
+    "level": "success",
+    "message": "Plugin loaded: balance, bal, money, duit (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.444Z",
+    "level": "success",
+    "message": "Plugin loaded: daily, claim (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.449Z",
+    "level": "success",
+    "message": "Plugin loaded: leaderboard, lb, top, rank (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.453Z",
+    "level": "success",
+    "message": "Plugin loaded: transfer, pay, give (economy)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.455Z",
+    "level": "success",
+    "message": "Plugin loaded: facts, fakta, trivia (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.456Z",
+    "level": "success",
+    "message": "Plugin loaded: quote, quotes, motivasi (fun)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.459Z",
+    "level": "success",
+    "message": "Plugin loaded: ttt, tictactoe, xo (game)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.461Z",
+    "level": "success",
+    "message": "Plugin loaded: casino, bet, gamble (games)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.515Z",
+    "level": "success",
+    "message": "Plugin loaded: slots, slot (games)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.518Z",
+    "level": "success",
+    "message": "Plugin loaded: help, bantuan (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.520Z",
+    "level": "success",
+    "message": "Plugin loaded: my (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.521Z",
+    "level": "success",
+    "message": "Plugin loaded: owner (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.528Z",
+    "level": "success",
+    "message": "Plugin loaded: ping (info)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.530Z",
+    "level": "success",
+    "message": "Plugin loaded: menu, help, start (main)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:15.749Z",
+    "level": "success",
+    "message": "Plugin loaded: nsfw (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:16.501Z",
+    "level": "success",
+    "message": "Plugin loaded: xnxx (nsfw)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:16.503Z",
+    "level": "success",
+    "message": "Plugin loaded: exec (owner)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:16.506Z",
+    "level": "success",
+    "message": "Plugin loaded: play (sound)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:16.510Z",
+    "level": "success",
+    "message": "Plugin loaded: brat (sticker)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:18.944Z",
+    "level": "success",
+    "message": "Plugin loaded: calc, math, calculate, kalkulator (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:18.955Z",
+    "level": "success",
+    "message": "Plugin loaded: calc, kalkulator, hitung (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.574Z",
+    "level": "success",
+    "message": "Plugin loaded: crypto, btc, eth, price (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.587Z",
+    "level": "success",
+    "message": "Plugin loaded: password, pass, genpass (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.941Z",
+    "level": "error",
+    "message": "Gagal memuat plugin /home/runner/workspace/plugins/tools/qr-enhanced.js:",
+    "args": [
+      {
+        "code": "ERR_DLOPEN_FAILED"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.943Z",
+    "level": "success",
+    "message": "Plugin loaded: qr, qrcode (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.955Z",
+    "level": "success",
+    "message": "Plugin loaded: shorturl, short, tinyurl (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.966Z",
+    "level": "success",
+    "message": "Plugin loaded: translate, tr, terjemah (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.968Z",
+    "level": "success",
+    "message": "Plugin loaded: weather, cuaca (tools)",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:34:19.969Z",
+    "level": "success",
+    "message": "83 plugin berhasil dimuat",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:42.467Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:42.468Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.282Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.885Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.888Z",
+    "level": "success",
+    "message": "✓ ai [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.889Z",
+    "level": "success",
+    "message": "✓ clear_chat [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.892Z",
+    "level": "success",
+    "message": "✓ personality [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.894Z",
+    "level": "success",
+    "message": "✓ hd [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.895Z",
+    "level": "success",
+    "message": "✓ halo [_Hoshino]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.899Z",
+    "level": "success",
+    "message": "✓ start [_Hoshino]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.901Z",
+    "level": "success",
+    "message": "✓ dashboard [admin]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.903Z",
+    "level": "success",
+    "message": "✓ warn [admin]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.906Z",
+    "level": "success",
+    "message": "✓ monitor [admin]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.907Z",
+    "level": "success",
+    "message": "✓ ai [ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.908Z",
+    "level": "success",
+    "message": "✓ imagine [ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.912Z",
+    "level": "success",
+    "message": "✓ ytmp3 [downloader]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.913Z",
+    "level": "success",
+    "message": "✓ ytmp4 [downloader]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.915Z",
+    "level": "success",
+    "message": "✓ balance [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.916Z",
+    "level": "success",
+    "message": "✓ daily [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.919Z",
+    "level": "success",
+    "message": "✓ leaderboard [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.920Z",
+    "level": "success",
+    "message": "✓ transfer [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.923Z",
+    "level": "success",
+    "message": "✓ facts [fun]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.925Z",
+    "level": "success",
+    "message": "✓ quote [fun]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.926Z",
+    "level": "success",
+    "message": "✓ ttt [game]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.928Z",
+    "level": "success",
+    "message": "✓ casino [games]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.932Z",
+    "level": "success",
+    "message": "✓ slots [games]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.934Z",
+    "level": "success",
+    "message": "✓ help [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.935Z",
+    "level": "success",
+    "message": "✓ my [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.938Z",
+    "level": "success",
+    "message": "✓ owner [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.939Z",
+    "level": "success",
+    "message": "✓ speed [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.941Z",
+    "level": "success",
+    "message": "✓ menu [main]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:43.956Z",
+    "level": "success",
+    "message": "✓ nsfw [nsfw]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:44.156Z",
+    "level": "success",
+    "message": "✓ xnxx [nsfw]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:44.158Z",
+    "level": "success",
+    "message": "✓ exec [owner]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:44.162Z",
+    "level": "success",
+    "message": "✓ play [sound]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:44.164Z",
+    "level": "success",
+    "message": "✓ brat [sticker]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.330Z",
+    "level": "success",
+    "message": "✓ calc [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.345Z",
+    "level": "success",
+    "message": "✓ calc [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.347Z",
+    "level": "success",
+    "message": "✓ crypto [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.350Z",
+    "level": "success",
+    "message": "✓ password [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.375Z",
+    "level": "success",
+    "message": "✓ qr [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.378Z",
+    "level": "success",
+    "message": "✓ qr [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.380Z",
+    "level": "success",
+    "message": "✓ shorturl [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.381Z",
+    "level": "success",
+    "message": "✓ translate [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.388Z",
+    "level": "success",
+    "message": "✓ weather [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:36:45.389Z",
+    "level": "error",
+    "message": "Error loading plugins:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:37:16.104Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:16.105Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:20.561Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.169Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.172Z",
+    "level": "success",
+    "message": "✓ ai [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.173Z",
+    "level": "success",
+    "message": "✓ clear_chat [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.175Z",
+    "level": "success",
+    "message": "✓ personality [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.178Z",
+    "level": "success",
+    "message": "✓ hd [Ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.179Z",
+    "level": "success",
+    "message": "✓ halo [_Hoshino]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.181Z",
+    "level": "success",
+    "message": "✓ start [_Hoshino]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.185Z",
+    "level": "success",
+    "message": "✓ dashboard [admin]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.187Z",
+    "level": "success",
+    "message": "✓ warn [admin]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.189Z",
+    "level": "success",
+    "message": "✓ monitor [admin]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.190Z",
+    "level": "success",
+    "message": "✓ ai [ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.192Z",
+    "level": "success",
+    "message": "✓ imagine [ai]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.195Z",
+    "level": "success",
+    "message": "✓ ytmp3 [downloader]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.197Z",
+    "level": "success",
+    "message": "✓ ytmp4 [downloader]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.199Z",
+    "level": "success",
+    "message": "✓ balance [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.201Z",
+    "level": "success",
+    "message": "✓ daily [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.203Z",
+    "level": "success",
+    "message": "✓ leaderboard [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.206Z",
+    "level": "success",
+    "message": "✓ transfer [economy]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.208Z",
+    "level": "success",
+    "message": "✓ facts [fun]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.209Z",
+    "level": "success",
+    "message": "✓ quote [fun]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.216Z",
+    "level": "success",
+    "message": "✓ ttt [game]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.218Z",
+    "level": "success",
+    "message": "✓ casino [games]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.219Z",
+    "level": "success",
+    "message": "✓ slots [games]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.223Z",
+    "level": "success",
+    "message": "✓ help [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.225Z",
+    "level": "success",
+    "message": "✓ my [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.228Z",
+    "level": "success",
+    "message": "✓ owner [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.229Z",
+    "level": "success",
+    "message": "✓ speed [info]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.231Z",
+    "level": "success",
+    "message": "✓ menu [main]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.256Z",
+    "level": "success",
+    "message": "✓ nsfw [nsfw]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.451Z",
+    "level": "success",
+    "message": "✓ xnxx [nsfw]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.454Z",
+    "level": "success",
+    "message": "✓ exec [owner]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.459Z",
+    "level": "success",
+    "message": "✓ play [sound]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:21.461Z",
+    "level": "success",
+    "message": "✓ brat [sticker]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.635Z",
+    "level": "success",
+    "message": "✓ calc [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.637Z",
+    "level": "success",
+    "message": "✓ calc [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.649Z",
+    "level": "success",
+    "message": "✓ crypto [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.651Z",
+    "level": "success",
+    "message": "✓ password [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.669Z",
+    "level": "success",
+    "message": "✓ qr [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.670Z",
+    "level": "success",
+    "message": "✓ qr [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.674Z",
+    "level": "success",
+    "message": "✓ shorturl [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.675Z",
+    "level": "success",
+    "message": "✓ translate [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.716Z",
+    "level": "success",
+    "message": "✓ weather [tools]",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:37:22.717Z",
+    "level": "error",
+    "message": "Error loading plugins:",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:38:52.761Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:38:52.762Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:38:53.369Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:38:53.995Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:38:55.457Z",
+    "level": "success",
+    "message": "📦 Total loaded plugins: 92",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:44:13.922Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:44:13.923Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:44:14.889Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:44:15.487Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:44:17.258Z",
+    "level": "success",
+    "message": "📦 Total loaded plugins: 90",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:45:29.335Z",
+    "level": "success",
+    "message": "Command '/help' berhasil dijalankan oleh User 7088128349",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:45:32.256Z",
+    "level": "error",
+    "message": "API Call Error (editMessageText):",
+    "args": [
+      "HTTP 400: Bad Request"
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:45:32.258Z",
+    "level": "error",
+    "message": "Error menjalankan command '/speed':",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:45:35.364Z",
+    "level": "error",
+    "message": "Error menjalankan command '/owner':",
+    "args": [
+      {}
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:45:43.060Z",
+    "level": "success",
+    "message": "Command '/qr' berhasil dijalankan oleh User 7088128349",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:45:53.607Z",
+    "level": "error",
+    "message": "API Call Error (sendPhoto):",
+    "args": [
+      "HTTP 400: Bad Request"
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:45:53.609Z",
+    "level": "success",
+    "message": "Command '/qr' berhasil dijalankan oleh User 7088128349",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:47:03.894Z",
+    "level": "info",
+    "message": "Mematikan bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:47:03.897Z",
+    "level": "info",
+    "message": "Bot stopped",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:47:06.271Z",
+    "level": "info",
+    "message": "Memulai bot...",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:47:06.889Z",
+    "level": "success",
+    "message": "Bot connected: @sora229_bot",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:47:09.150Z",
+    "level": "success",
+    "message": "📦 Total loaded plugins: 90",
+    "args": []
+  },
+  {
+    "timestamp": "2025-06-14T10:47:24.380Z",
+    "level": "error",
+    "message": "API Call Error (sendPhoto):",
+    "args": [
+      "HTTP 400: Bad Request"
+    ]
+  },
+  {
+    "timestamp": "2025-06-14T10:47:24.382Z",
+    "level": "success",
+    "message": "Command '/qr' berhasil dijalankan oleh User 7088128349",
+    "args": []
+  }
+]

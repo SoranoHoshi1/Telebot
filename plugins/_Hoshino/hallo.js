@@ -1,6 +1,8 @@
 export default {
-  command: 'halo',
-  description: "Balas dengan 'Halo juga!' setelah 2 detik",
+  command: "halo",
+  tags: ['main'],
+  help: ['/halo'],
+  description: "Menyapa pengguna dengan ramah",
   async run(ctx) {
     ctx.reply('Halo juga!');
   }

@@ -1,0 +1,26 @@
+{
+  "users": {
+    "7088128349": {
+      "id": "7088128349",
+      "joinDate": 1749886830381,
+      "lastSeen": 1749898043450,
+      "totalExp": 3,
+      "money": 1000,
+      "dailyStreak": 0,
+      "lastDaily": 0,
+      "settings": {}
+    }
+  },
+  "chats": {
+    "7088128349": {
+      "id": "7088128349",
+      "joinDate": 1749886830381,
+      "settings": {},
+      "stats": {
+        "messages": 10,
+        "commands": 7
+      }
+    }
+  },
+  "settings": {}
+}

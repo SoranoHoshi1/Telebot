@@ -1,12 +1,17 @@
 export default {
   command: "owner",
+  tags: ['info'],
+  help: ['/owner'],
   description: "mengirim info tentang owner",
   async run(ctx) {
-  const ownerNumber = global.config.owner[0][0];
-  const ownerName = global.config.owner[0][1];
-  const PhoneNumber = `+${ownerNumber}`;
-  const Name = ownerName;
+    const ownerInfo = config.owner[0];
 
-  ctx.replyWithContact(PhoneNumber, Name);
-}
+    await ctx.reply(`👤 *Owner Bot*
+
+📱 *Name:* ${ownerInfo[0]}
+🆔 *ID:* ${ownerInfo[1]}
+💬 *Contact:* @${ownerInfo[0]}
+
+📞 Hubungi owner jika ada masalah atau pertanyaan tentang bot ini.`, { parse_mode: 'Markdown' });
+  }
 };

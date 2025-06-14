@@ -2,6 +2,8 @@ import { exec } from "child_process";
 
 export default {
   command: "exec",
+  tags: ['owner'],
+  help: ['/exec <command>'],
   description: "Jalankan perintah terminal di server",
   dev: true,
   async run(ctx) {
